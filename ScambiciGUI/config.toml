@@ -1,0 +1,7 @@
+baseURL = "https://natras2.github.io/ScambiciGUI/"
+RelativeURLs=true
+CanonifyURLs=true
+languageCode = "it-it"
+title = "Scambici"
+disablePathToLower=true
+
