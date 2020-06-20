@@ -8,5 +8,6 @@ We developed a REST API in C# using the .NET Framework and an HTML/CSS/JS front-
 
 The API is deployed as a set of serverless Azure Functions, while the front-end is hosted on GitHub Pages. 
 
-We are releasing the source code under the GPLv3 license.
+The front-end is available at https://kmfrick.vision/Scambici and https://natras2.github.io/ScambiciGUI .
 
+We are releasing the source code under the GPLv3 license.
