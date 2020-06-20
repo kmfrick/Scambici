@@ -22,7 +22,7 @@ $(document).ready(function(){
 			contentType : "application/json",
 			success: function() {
 				alert("Richiesta inoltrata con successo.");
-				window.location.href = "/ScambiciGUI/InactiveUser/HomeInactiveUser";
+				window.location.href = "/Scambici/InactiveUser/HomeInactiveUser";
 			},
 			error: function() {
 				alert("Errore durante l'invio della richiesta.");

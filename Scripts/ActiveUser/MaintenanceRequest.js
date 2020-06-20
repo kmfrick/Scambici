@@ -14,7 +14,7 @@ $(document).ready(function(){
 			dataType: "json",
 			contentType : "application/json",
 			success: function () {
-				window.location.href = "/ScambiciGUI/ActiveUser/Confirmation/MaintenanceRequest"
+				window.location.href = "/Scambici/ActiveUser/Confirmation/MaintenanceRequest"
 			},
 			error: function () {
 				alert("Errore nell'invio della richiesta");

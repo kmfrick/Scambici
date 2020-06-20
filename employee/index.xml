@@ -2,95 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Employees on Scambici</title>
-    <link>https://natras2.github.io/ScambiciGUI/employee/</link>
+    <link>https://kmfrick.vision/Scambici/employee/</link>
     <description>Recent content in Employees on Scambici</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     
-	<atom:link href="https://natras2.github.io/ScambiciGUI/employee/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kmfrick.vision/Scambici/employee/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deliveries</title>
-      <link>https://natras2.github.io/ScambiciGUI/Employee/Deliveries/</link>
+      <link>https://kmfrick.vision/Scambici/Employee/Deliveries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://natras2.github.io/ScambiciGUI/Employee/Deliveries/</guid>
+      <guid>https://kmfrick.vision/Scambici/Employee/Deliveries/</guid>
       <description>	 Consegne  </description>
     </item>
     
     <item>
       <title>Home Dipendente</title>
-      <link>https://natras2.github.io/ScambiciGUI/Employee/HomeEmployeeTask/HomeEmployee_StoreMaintenance/</link>
+      <link>https://kmfrick.vision/Scambici/Employee/HomeEmployeeTask/HomeEmployee_StoreMaintenance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://natras2.github.io/ScambiciGUI/Employee/HomeEmployeeTask/HomeEmployee_StoreMaintenance/</guid>
+      <guid>https://kmfrick.vision/Scambici/Employee/HomeEmployeeTask/HomeEmployee_StoreMaintenance/</guid>
       <description> Scambici Benvenuto [Nome] [Cognome],
 Al momento ti stai occupando di:  Manutenzione bicicletta in magazzino  Bicicletta n. 125476  Rottama bici  Completa       </description>
     </item>
     
     <item>
       <title>Home dipendente</title>
-      <link>https://natras2.github.io/ScambiciGUI/Employee/HomeEmployee/</link>
+      <link>https://kmfrick.vision/Scambici/Employee/HomeEmployee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://natras2.github.io/ScambiciGUI/Employee/HomeEmployee/</guid>
+      <guid>https://kmfrick.vision/Scambici/Employee/HomeEmployee/</guid>
       <description> Scambici Benvenuto [Nome] [Cognome],    </description>
     </item>
     
     <item>
       <title>Home employee</title>
-      <link>https://natras2.github.io/ScambiciGUI/Employee/HomeEmployeeTask/HomeEmployee_Delivery/</link>
+      <link>https://kmfrick.vision/Scambici/Employee/HomeEmployeeTask/HomeEmployee_Delivery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://natras2.github.io/ScambiciGUI/Employee/HomeEmployeeTask/HomeEmployee_Delivery/</guid>
+      <guid>https://kmfrick.vision/Scambici/Employee/HomeEmployeeTask/HomeEmployee_Delivery/</guid>
       <description>	Scambici Benvenuto [Nome] [Cognome],
 Al momento ti stai occupando di:  Consegna per Alessandro Manzoni Data e ora: 06/06/2020 17:30 Indirizzo: Via della Beverara, 135/B   Completa      </description>
     </item>
     
     <item>
       <title>Home employee</title>
-      <link>https://natras2.github.io/ScambiciGUI/Employee/HomeEmployeeTask/HomeEmployee_UserMaintenance/</link>
+      <link>https://kmfrick.vision/Scambici/Employee/HomeEmployeeTask/HomeEmployee_UserMaintenance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://natras2.github.io/ScambiciGUI/Employee/HomeEmployeeTask/HomeEmployee_UserMaintenance/</guid>
+      <guid>https://kmfrick.vision/Scambici/Employee/HomeEmployeeTask/HomeEmployee_UserMaintenance/</guid>
       <description>	Scambici Benvenuto [Nome] [Cognome],
 Al momento ti stai occupando di:  Manutenzione richiesta da Alessandro Manzoni Dettagli:  sellino instabile   Sostituisci bici  Completa       </description>
     </item>
     
     <item>
       <title>Rental interruptions</title>
-      <link>https://natras2.github.io/ScambiciGUI/Employee/RentalInterruptions/</link>
+      <link>https://kmfrick.vision/Scambici/Employee/RentalInterruptions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://natras2.github.io/ScambiciGUI/Employee/RentalInterruptions/</guid>
+      <guid>https://kmfrick.vision/Scambici/Employee/RentalInterruptions/</guid>
       <description>	 Richieste interruzioni  </description>
     </item>
     
     <item>
       <title>Store maintenances</title>
-      <link>https://natras2.github.io/ScambiciGUI/Employee/StoreMaintenances/</link>
+      <link>https://kmfrick.vision/Scambici/Employee/StoreMaintenances/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://natras2.github.io/ScambiciGUI/Employee/StoreMaintenances/</guid>
+      <guid>https://kmfrick.vision/Scambici/Employee/StoreMaintenances/</guid>
       <description>	 Manutenzioni biciclette in magazzino  </description>
     </item>
     
     <item>
       <title>Thefts</title>
-      <link>https://natras2.github.io/ScambiciGUI/Employee/Thefts/</link>
+      <link>https://kmfrick.vision/Scambici/Employee/Thefts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://natras2.github.io/ScambiciGUI/Employee/Thefts/</guid>
+      <guid>https://kmfrick.vision/Scambici/Employee/Thefts/</guid>
       <description>	 Furti  </description>
     </item>
     
     <item>
       <title>User maintenances</title>
-      <link>https://natras2.github.io/ScambiciGUI/Employee/UserMaintenances/</link>
+      <link>https://kmfrick.vision/Scambici/Employee/UserMaintenances/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://natras2.github.io/ScambiciGUI/Employee/UserMaintenances/</guid>
+      <guid>https://kmfrick.vision/Scambici/Employee/UserMaintenances/</guid>
       <description>	 Manutenzioni biciclette utenti  </description>
     </item>
     

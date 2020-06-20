@@ -22,9 +22,9 @@ $(document).ready(function() {
 				$.session.set("name", data['Name']);
 				$.session.set("surname", data['Surname']);
 				if (data['RentedBike'] != null) {
-					window.location.href = "/ScambiciGUI/ActiveUser/HomeActiveUser";
+					window.location.href = "/Scambici/ActiveUser/HomeActiveUser";
 				} else {
-					window.location.href = "/ScambiciGUI/InactiveUser/HomeInactiveUser";
+					window.location.href = "/Scambici/InactiveUser/HomeInactiveUser";
 				}
 			},
 			error: function(data, textStatus, jqXHR) {

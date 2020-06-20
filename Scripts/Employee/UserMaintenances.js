@@ -43,7 +43,7 @@ $(document).on('submit', 'form', function(event){
 		dataType: "json",
 		contentType : "application/json",
 		success: function(data) {
-			window.location.href = "/ScambiciGUI/Employee/HomeEmployee";
+			window.location.href = "/Scambici/Employee/HomeEmployee";
 		},
 		error: function(data) {
 			alert("Errore durante la presa in carico della manutenzione");

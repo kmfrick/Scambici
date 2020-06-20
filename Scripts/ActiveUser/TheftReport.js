@@ -18,9 +18,9 @@ $(document).ready(function(){
 			contentType : "application/json",
 			success: function () {
 				if (theftReport['HasKeys'] == true) {
-					window.location.href = "/ScambiciGUI/ActiveUser/Confirmation/TheftReport_WithKey"
+					window.location.href = "/Scambici/ActiveUser/Confirmation/TheftReport_WithKey"
 				} else {
-					window.location.href = "/ScambiciGUI/ActiveUser/Confirmation/TheftReport_WithoutKey"
+					window.location.href = "/Scambici/ActiveUser/Confirmation/TheftReport_WithoutKey"
 				}
 			}, 
 			error: function () {

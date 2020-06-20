@@ -3,7 +3,7 @@ $(document).ready(function() {
 		let formEmployee = $('#registration-admin').serializeObject();
 		$.session.set("registrandName", formEmployee["Name"]);
 		$.session.set("registrandSurname", formEmployee["Surname"]);
-		window.location.href = "/ScambiciGUI/EmployeeHandling/EmployeeRegistration_Employee";
+		window.location.href = "/Scambici/EmployeeHandling/EmployeeRegistration_Employee";
 		event.preventDefault();
 	});
 });

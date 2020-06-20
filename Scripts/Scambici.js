@@ -105,7 +105,7 @@ $(document).ready(function(){
 	if (ar.includes(path)) {
 		if (($.session.get("userId") === undefined && $.session.get("employeeId") === undefined) || $.session.get("name") === undefined ||
 			$.session.get("surname") === undefined || $.session.get("passwordHash") === undefined) {
-			window.location.href = "/ScambiciGUI/Authentication/HomeAccess";
+			window.location.href = "/Scambici/Authentication/HomeAccess";
 		}
 	}
 });

@@ -12,7 +12,7 @@ $(document).ready(function(){
 		}
 		if (!isAdmin) {
 			alert("Questa interfaccia è riservata agli amministratori. Il tuo tentativo di accesso è stato registrato.");
-			window.location.href = "/ScambiciGUI/Authentication/AdminLogout";
+			window.location.href = "/Scambici/Authentication/AdminLogout";
 		}
 	});
 

@@ -22,7 +22,7 @@ $(document).ready(function() {
 				$.session.set("employeeId", data['EmployeeId']);
 				$.session.set("name", data['Name']);
 				$.session.set("surname", data['Surname']);
-				window.location.href = "/ScambiciGUI/EmployeeHandling/HomeEmployeeHandling";
+				window.location.href = "/Scambici/EmployeeHandling/HomeEmployeeHandling";
 			},
 			error: function(data, textStatus, jqXHR) {
 				alert("Indirizzo e-mail o password errati!");

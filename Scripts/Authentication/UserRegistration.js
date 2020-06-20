@@ -19,7 +19,7 @@ $(document).ready(function(){
 			contentType : "application/json",
 			success: function(data) {
 				alert("Registrazione completata con successo!");
-				window.location.href = "/ScambiciGUI/Authentication/UserLogin";
+				window.location.href = "/Scambici/Authentication/UserLogin";
 			},
 			error: function(data) {
 				alert("Errore durante la registrazione");

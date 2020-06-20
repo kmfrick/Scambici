@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>InactiveUsers on Scambici</title>
-    <link>https://natras2.github.io/ScambiciGUI/inactiveuser/</link>
+    <link>https://kmfrick.vision/Scambici/inactiveuser/</link>
     <description>Recent content in InactiveUsers on Scambici</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     
-	<atom:link href="https://natras2.github.io/ScambiciGUI/inactiveuser/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kmfrick.vision/Scambici/inactiveuser/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Delete user</title>
-      <link>https://natras2.github.io/ScambiciGUI/InactiveUser/DeleteUser/</link>
+      <link>https://kmfrick.vision/Scambici/InactiveUser/DeleteUser/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://natras2.github.io/ScambiciGUI/InactiveUser/DeleteUser/</guid>
+      <guid>https://kmfrick.vision/Scambici/InactiveUser/DeleteUser/</guid>
       <description>  Scambici Sei sicuro di voler eliminare il tuo account?  Inserisci la tua password per continuare:   Invia   </description>
     </item>
     
     <item>
       <title>Home inactive user</title>
-      <link>https://natras2.github.io/ScambiciGUI/InactiveUser/HomeInactiveUser/</link>
+      <link>https://kmfrick.vision/Scambici/InactiveUser/HomeInactiveUser/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://natras2.github.io/ScambiciGUI/InactiveUser/HomeInactiveUser/</guid>
+      <guid>https://kmfrick.vision/Scambici/InactiveUser/HomeInactiveUser/</guid>
       <description>	 Scambici Benvenuto [Nome] [Cognome],
 Al momento non hai nessun noleggio attivo.   </description>
     </item>
     
     <item>
       <title>New bike</title>
-      <link>https://natras2.github.io/ScambiciGUI/InactiveUser/NewBike/</link>
+      <link>https://kmfrick.vision/Scambici/InactiveUser/NewBike/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://natras2.github.io/ScambiciGUI/InactiveUser/NewBike/</guid>
+      <guid>https://kmfrick.vision/Scambici/InactiveUser/NewBike/</guid>
       <description>	 Scambici Desideri una consegna a domicilio?  Sì  No, sono gi&amp;agrave; in negozio  Quando desideri ricevere la bicicletta?     Invia   </description>
     </item>
     

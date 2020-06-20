@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EmployeeHandlings on Scambici</title>
-    <link>https://natras2.github.io/ScambiciGUI/employeehandling/</link>
+    <link>https://kmfrick.vision/Scambici/employeehandling/</link>
     <description>Recent content in EmployeeHandlings on Scambici</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     
-	<atom:link href="https://natras2.github.io/ScambiciGUI/employeehandling/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kmfrick.vision/Scambici/employeehandling/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eliminazione dipendente</title>
-      <link>https://natras2.github.io/ScambiciGUI/EmployeeHandling/DeleteEmployee/</link>
+      <link>https://kmfrick.vision/Scambici/EmployeeHandling/DeleteEmployee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://natras2.github.io/ScambiciGUI/EmployeeHandling/DeleteEmployee/</guid>
+      <guid>https://kmfrick.vision/Scambici/EmployeeHandling/DeleteEmployee/</guid>
       <description> Elimina dipendente Negozio [Negozio]  </description>
     </item>
     
     <item>
       <title>Employee registration</title>
-      <link>https://natras2.github.io/ScambiciGUI/EmployeeHandling/EmployeeRegistration/</link>
+      <link>https://kmfrick.vision/Scambici/EmployeeHandling/EmployeeRegistration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://natras2.github.io/ScambiciGUI/EmployeeHandling/EmployeeRegistration/</guid>
+      <guid>https://kmfrick.vision/Scambici/EmployeeHandling/EmployeeRegistration/</guid>
       <description>	 Registrazione dipendente Inserisci i dati del dipendente da iscrivere al sistema.    Invia   </description>
     </item>
     
     <item>
       <title>Employee registration</title>
-      <link>https://natras2.github.io/ScambiciGUI/EmployeeHandling/EmployeeRegistration_Employee/</link>
+      <link>https://kmfrick.vision/Scambici/EmployeeHandling/EmployeeRegistration_Employee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://natras2.github.io/ScambiciGUI/EmployeeHandling/EmployeeRegistration_Employee/</guid>
+      <guid>https://kmfrick.vision/Scambici/EmployeeHandling/EmployeeRegistration_Employee/</guid>
       <description>	 Registrazione dipendente Ciao [nome] [cognome]! Benvenuto nel team di Scambici!  Inserisci l&#39;email e la password con i quali accederai alla tua area riservata.    Invia   </description>
     </item>
     
     <item>
       <title>Home employee handling</title>
-      <link>https://natras2.github.io/ScambiciGUI/EmployeeHandling/HomeEmployeeHandling/</link>
+      <link>https://kmfrick.vision/Scambici/EmployeeHandling/HomeEmployeeHandling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://natras2.github.io/ScambiciGUI/EmployeeHandling/HomeEmployeeHandling/</guid>
+      <guid>https://kmfrick.vision/Scambici/EmployeeHandling/HomeEmployeeHandling/</guid>
       <description> Scambici Benvenuto [Nome] [Cognome],
 Da qui puoi gestire i dipendenti del negozio di [Indirizzo].   </description>
     </item>

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Scambici</title>
-    <link>https://natras2.github.io/ScambiciGUI/categories/</link>
+    <link>https://kmfrick.vision/Scambici/categories/</link>
     <description>Recent content in Categories on Scambici</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     
-	<atom:link href="https://natras2.github.io/ScambiciGUI/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kmfrick.vision/Scambici/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
