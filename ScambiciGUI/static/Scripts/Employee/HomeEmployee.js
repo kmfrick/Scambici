@@ -54,7 +54,7 @@ $(document).on('submit', '#deliveryForm', function(event){
 		dataType: "json",
 		contentType : "application/json",
 		success: function(data) {
-			window.location.href = "/ScambiciGUI/Employee/HomeEmployee";
+			window.location.href = "/Scambici/Employee/HomeEmployee";
 		},
 		error: function(data) {
 			alert("Errore durante la terminazione della consegna");
@@ -91,7 +91,7 @@ $(document).on('submit', '#userMaintenanceForm', function(event){
 					dataType: "json",
 					contentType : "application/json",
 					success: function(data) {
-						window.location.href = "/ScambiciGUI/Employee/HomeEmployee";
+						window.location.href = "/Scambici/Employee/HomeEmployee";
 					},
 					error: function(data) {
 						alert("Errore durante la terminazione della manutenzione utente");
@@ -111,7 +111,7 @@ $(document).on('submit', '#userMaintenanceForm', function(event){
 			dataType: "json",
 			contentType : "application/json",
 			success: function(data) {
-				window.location.href = "/ScambiciGUI/Employee/HomeEmployee";
+				window.location.href = "/Scambici/Employee/HomeEmployee";
 			},
 			error: function(data) {
 				alert("Errore durante la terminazione della manutenzione utente");
@@ -143,7 +143,7 @@ $(document).on('submit', '#storeMaintenanceForm', function(event){
 					dataType: "json",
 					contentType : "application/json",
 					success: function(data) {
-						window.location.href = "/ScambiciGUI/Employee/HomeEmployee";
+						window.location.href = "/Scambici/Employee/HomeEmployee";
 					},
 					error: function(data) {
 						alert("Errore durante la terminazione della manutenzione magazzino");
@@ -163,7 +163,7 @@ $(document).on('submit', '#storeMaintenanceForm', function(event){
 			dataType: "json",
 			contentType : "application/json",
 			success: function(data) {
-				window.location.href = "/ScambiciGUI/Employee/HomeEmployee";
+				window.location.href = "/Scambici/Employee/HomeEmployee";
 			},
 			error: function(data) {
 				alert("Errore durante la terminazione della manutenzione magazzino");

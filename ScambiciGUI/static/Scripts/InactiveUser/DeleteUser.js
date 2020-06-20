@@ -22,7 +22,7 @@ $(document).ready(function(){
 			dataType: "json",
 			contentType : "application/json",
 			success: function() {
-				window.location.href = "/ScambiciGUI/Authentication/HomeAccess";
+				window.location.href = "/Scambici/Authentication/HomeAccess";
 			}, 
 			error: function() {
 				alert("Errore nell'invio della richiesta");

@@ -23,7 +23,7 @@ $(document).ready(function() {
 			contentType : "application/json",
 			success: function() {
 				alert("Registrazione completata con successo!");
-				window.location.href = "/ScambiciGUI/EmployeeHandling/HomeEmployeeHandling";
+				window.location.href = "/Scambici/EmployeeHandling/HomeEmployeeHandling";
 			},
 			error: function(data) {
 				alert("Errore nell'invio della richiesta.");

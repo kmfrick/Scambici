@@ -13,7 +13,7 @@ $(document).ready(function(){
 			dataType: "json",
 			contentType : "application/json",
 			success: function () {
-				window.location.href = "/ScambiciGUI/ActiveUser/Confirmation/RentalInterruption"
+				window.location.href = "/Scambici/ActiveUser/Confirmation/RentalInterruption"
 			}, 
 			error: function () {
 				alert("Errore nell'invio della richiesta");
