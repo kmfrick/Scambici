@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scambici</title>
+    <link>https://natras2.github.io/ScambiciGUI/</link>
+    <description>Recent content on Scambici</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    
+	<atom:link href="https://natras2.github.io/ScambiciGUI/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accedi o Registrati</title>
+      <link>https://natras2.github.io/ScambiciGUI/Authentication/HomeAccess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Authentication/HomeAccess/</guid>
+      <description> Scambici Accedi  Registrati   Sei un dipendente? Accedi  </description>
+    </item>
+    
+    <item>
+      <title>Delete user</title>
+      <link>https://natras2.github.io/ScambiciGUI/InactiveUser/DeleteUser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/InactiveUser/DeleteUser/</guid>
+      <description>  Scambici Sei sicuro di voler eliminare il tuo account?  Inserisci la tua password per continuare:   Invia   </description>
+    </item>
+    
+    <item>
+      <title>Deliveries</title>
+      <link>https://natras2.github.io/ScambiciGUI/Employee/Deliveries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Employee/Deliveries/</guid>
+      <description>	 Consegne  </description>
+    </item>
+    
+    <item>
+      <title>Eliminazione dipendente</title>
+      <link>https://natras2.github.io/ScambiciGUI/EmployeeHandling/DeleteEmployee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/EmployeeHandling/DeleteEmployee/</guid>
+      <description> Elimina dipendente Negozio [Negozio]  </description>
+    </item>
+    
+    <item>
+      <title>Employee registration</title>
+      <link>https://natras2.github.io/ScambiciGUI/EmployeeHandling/EmployeeRegistration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/EmployeeHandling/EmployeeRegistration/</guid>
+      <description>	 Registrazione dipendente Inserisci i dati del dipendente da iscrivere al sistema.    Invia   </description>
+    </item>
+    
+    <item>
+      <title>Employee registration</title>
+      <link>https://natras2.github.io/ScambiciGUI/EmployeeHandling/EmployeeRegistration_Employee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/EmployeeHandling/EmployeeRegistration_Employee/</guid>
+      <description>	 Registrazione dipendente Ciao [nome] [cognome]! Benvenuto nel team di Scambici!  Inserisci l&#39;email e la password con i quali accederai alla tua area riservata.    Invia   </description>
+    </item>
+    
+    <item>
+      <title>Home active user</title>
+      <link>https://natras2.github.io/ScambiciGUI/ActiveUser/HomeActiveUser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/ActiveUser/HomeActiveUser/</guid>
+      <description>	 Scambici Benvenuto [Nome] [Cognome],
+Speriamo che tu ti trovi bene con la tua Scambici!   </description>
+    </item>
+    
+    <item>
+      <title>Home Dipendente</title>
+      <link>https://natras2.github.io/ScambiciGUI/Employee/HomeEmployeeTask/HomeEmployee_StoreMaintenance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Employee/HomeEmployeeTask/HomeEmployee_StoreMaintenance/</guid>
+      <description> Scambici Benvenuto [Nome] [Cognome],
+Al momento ti stai occupando di:  Manutenzione bicicletta in magazzino  Bicicletta n. 125476  Rottama bici  Completa       </description>
+    </item>
+    
+    <item>
+      <title>Home dipendente</title>
+      <link>https://natras2.github.io/ScambiciGUI/Employee/HomeEmployee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Employee/HomeEmployee/</guid>
+      <description> Scambici Benvenuto [Nome] [Cognome],    </description>
+    </item>
+    
+    <item>
+      <title>Home employee</title>
+      <link>https://natras2.github.io/ScambiciGUI/Employee/HomeEmployeeTask/HomeEmployee_Delivery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Employee/HomeEmployeeTask/HomeEmployee_Delivery/</guid>
+      <description>	Scambici Benvenuto [Nome] [Cognome],
+Al momento ti stai occupando di:  Consegna per Alessandro Manzoni Data e ora: 06/06/2020 17:30 Indirizzo: Via della Beverara, 135/B   Completa      </description>
+    </item>
+    
+    <item>
+      <title>Home employee</title>
+      <link>https://natras2.github.io/ScambiciGUI/Employee/HomeEmployeeTask/HomeEmployee_UserMaintenance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Employee/HomeEmployeeTask/HomeEmployee_UserMaintenance/</guid>
+      <description>	Scambici Benvenuto [Nome] [Cognome],
+Al momento ti stai occupando di:  Manutenzione richiesta da Alessandro Manzoni Dettagli:  sellino instabile   Sostituisci bici  Completa       </description>
+    </item>
+    
+    <item>
+      <title>Home employee handling</title>
+      <link>https://natras2.github.io/ScambiciGUI/EmployeeHandling/HomeEmployeeHandling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/EmployeeHandling/HomeEmployeeHandling/</guid>
+      <description> Scambici Benvenuto [Nome] [Cognome],
+Da qui puoi gestire i dipendenti del negozio di [Indirizzo].   </description>
+    </item>
+    
+    <item>
+      <title>Home inactive user</title>
+      <link>https://natras2.github.io/ScambiciGUI/InactiveUser/HomeInactiveUser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/InactiveUser/HomeInactiveUser/</guid>
+      <description>	 Scambici Benvenuto [Nome] [Cognome],
+Al momento non hai nessun noleggio attivo.   </description>
+    </item>
+    
+    <item>
+      <title>Login</title>
+      <link>https://natras2.github.io/ScambiciGUI/Authentication/AdminLogin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Authentication/AdminLogin/</guid>
+      <description> Scambici    Invia   </description>
+    </item>
+    
+    <item>
+      <title>Login</title>
+      <link>https://natras2.github.io/ScambiciGUI/Authentication/EmployeeLogin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Authentication/EmployeeLogin/</guid>
+      <description>	 Scambici    Invia   </description>
+    </item>
+    
+    <item>
+      <title>Login</title>
+      <link>https://natras2.github.io/ScambiciGUI/Authentication/UserLogin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Authentication/UserLogin/</guid>
+      <description>	 Scambici    Invia   </description>
+    </item>
+    
+    <item>
+      <title>Logout</title>
+      <link>https://natras2.github.io/ScambiciGUI/Authentication/AdminLogout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Authentication/AdminLogout/</guid>
+      <description> Logout in corso... </description>
+    </item>
+    
+    <item>
+      <title>Logout</title>
+      <link>https://natras2.github.io/ScambiciGUI/Authentication/EmployeeLogout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Authentication/EmployeeLogout/</guid>
+      <description>	  Logout in corso... </description>
+    </item>
+    
+    <item>
+      <title>Logout</title>
+      <link>https://natras2.github.io/ScambiciGUI/Authentication/UserLogout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Authentication/UserLogout/</guid>
+      <description>	 Logout in corso... </description>
+    </item>
+    
+    <item>
+      <title>Maintenance request</title>
+      <link>https://natras2.github.io/ScambiciGUI/ActiveUser/Confirmation/MaintenanceRequest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/ActiveUser/Confirmation/MaintenanceRequest/</guid>
+      <description> Richiesta manutenzione Grazie della segnalazione.  Un nostro dipendente si recher&amp;agrave; da te il prima possibile.  Torna alla home  </description>
+    </item>
+    
+    <item>
+      <title>Maintenance request</title>
+      <link>https://natras2.github.io/ScambiciGUI/ActiveUser/MaintenanceRequest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/ActiveUser/MaintenanceRequest/</guid>
+      <description>	 Richiesta manutenzione Inserisci il dettaglio del tuo guasto.  Un nostro dipendente si recher&amp;agrave; da te il prima possibile.    Invia   </description>
+    </item>
+    
+    <item>
+      <title>New bike</title>
+      <link>https://natras2.github.io/ScambiciGUI/InactiveUser/NewBike/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/InactiveUser/NewBike/</guid>
+      <description>	 Scambici Desideri una consegna a domicilio?  Sì  No, sono gi&amp;agrave; in negozio  Quando desideri ricevere la bicicletta?     Invia   </description>
+    </item>
+    
+    <item>
+      <title>Rental interruption</title>
+      <link>https://natras2.github.io/ScambiciGUI/ActiveUser/Confirmation/RentalInterruption/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/ActiveUser/Confirmation/RentalInterruption/</guid>
+      <description> Interruzione noleggio La tua richiesta di interruzione &amp;egrave; stata registrata.  Ti chiediamo di recarti in negozio per la riconsegna della bicicletta e l&#39;interruzione dell&#39;abbonamento.  Torna alla home  </description>
+    </item>
+    
+    <item>
+      <title>Rental interruption</title>
+      <link>https://natras2.github.io/ScambiciGUI/ActiveUser/RentalInterruption/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/ActiveUser/RentalInterruption/</guid>
+      <description>  Interruzione noleggio Sei sicuro di voler interrompere il tuo noleggio?  Conferma   </description>
+    </item>
+    
+    <item>
+      <title>Rental interruptions</title>
+      <link>https://natras2.github.io/ScambiciGUI/Employee/RentalInterruptions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Employee/RentalInterruptions/</guid>
+      <description>	 Richieste interruzioni  </description>
+    </item>
+    
+    <item>
+      <title>Segnalazione furto</title>
+      <link>https://natras2.github.io/ScambiciGUI/ActiveUser/Confirmation/TheftReport_WithKey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/ActiveUser/Confirmation/TheftReport_WithKey/</guid>
+      <description> Segnalazione furto La tua segnalazione &amp;egrave; stata presa in carico.  Ti chiediamo di recarti in negozio per la riconsegna delle chiavi.  Richiedi una nuova bicicletta  </description>
+    </item>
+    
+    <item>
+      <title>Store maintenances</title>
+      <link>https://natras2.github.io/ScambiciGUI/Employee/StoreMaintenances/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Employee/StoreMaintenances/</guid>
+      <description>	 Manutenzioni biciclette in magazzino  </description>
+    </item>
+    
+    <item>
+      <title>Theft report</title>
+      <link>https://natras2.github.io/ScambiciGUI/ActiveUser/Confirmation/TheftReport_WithoutKey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/ActiveUser/Confirmation/TheftReport_WithoutKey/</guid>
+      <description> Segnalazione furto La tua segnalazione &amp;egrave; stata registrata.  La penale &amp;egrave; stata addebitata sul metodo di pagamento scelto in fase di registrazione.  Torna alla home  </description>
+    </item>
+    
+    <item>
+      <title>Theft report</title>
+      <link>https://natras2.github.io/ScambiciGUI/ActiveUser/TheftReport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/ActiveUser/TheftReport/</guid>
+      <description>  Segnalazione furto Possiedi la chiave della bicicletta?  Sì  No  Conferma   </description>
+    </item>
+    
+    <item>
+      <title>Thefts</title>
+      <link>https://natras2.github.io/ScambiciGUI/Employee/Thefts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Employee/Thefts/</guid>
+      <description>	 Furti  </description>
+    </item>
+    
+    <item>
+      <title>User maintenances</title>
+      <link>https://natras2.github.io/ScambiciGUI/Employee/UserMaintenances/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Employee/UserMaintenances/</guid>
+      <description>	 Manutenzioni biciclette utenti  </description>
+    </item>
+    
+    <item>
+      <title>User Registration</title>
+      <link>https://natras2.github.io/ScambiciGUI/Authentication/UserRegistration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Authentication/UserRegistration/</guid>
+      <description>	  Scambici    Seleziona il negozio     Invia   </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>User Registration</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+<script src="../../Scripts/Utils/jquery-session.js"></script>
+<script src="../../Scripts/Utils/sha512.js"></script>
+<script src="../../Scripts/Scambici.js"></script>
+
+
+<link href="../../Styles/Scambici.css" rel="stylesheet">
+</head>
+<body>
+
+
+<div><nav class="navbar navbar-dark bg-head">
+	<button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+		<span class="navbar-toggler-icon"></span>
+	</button>
+	<div class="collapse navbar-collapse" id="collapsibleNavbar">
+		<ul class="navbar-nav">
+			<li class="nav-item">
+				<a class="nav-link" href="../HomeAccess">Home</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="../UserLogin">Accedi (Utente)</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="../EmployeeLogin">Accedi (Dipendente)</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="../UserRegistration">Registrati</a>
+			</li> 	   
+		</ul>
+	</div>
+</nav>
+</div>
+
+	<link href="../../Styles/Authentication/UserRegistration.css" rel="stylesheet">
+
+	<!-- SCRIPTS -->
+	<script src="../../Scripts/Authentication/UserRegistration.js"></script>
+</head>
+
+<!-- CONTENT -->
+<div class="container bg-body text-center rounded-lg">
+	<h1 class="display-4 logo"><b>Scambici</b></h1>
+	<form id="user-form" name="user-form">
+		<div class="mb-2">
+			<input type="text" class="form-control form-control-lg input-head" placeholder="Nome" name="Name">
+		</div>
+		<div class="mb-2">
+			<input type="text" class="form-control form-control-lg input-head" placeholder="Cognome" name="Surname">
+		</div>
+		<div class="mb-2">
+			<input type="text" class="form-control form-control-lg input-head" placeholder="Indirizzo" name="Address">
+		</div>
+		<div class="mb-2">
+			<select class="form-control form-control-lg input-head" placeholder="Negozio" name="StoreId" id="store">
+				<option value="" selected disabled>Seleziona il negozio</option>
+			</select>
+		</div>
+		<div class="mb-2">
+			<input type="email" class="form-control form-control-lg input-head" placeholder="Email" name="EMailAddress">
+		</div>
+		<div class="mb-3">
+			<input type="password" class="form-control form-control-lg input-head" placeholder="Password" name="PasswordHash">
+		</div>
+		<button type="submit" class="btn btn-lg btn-block btn-head mt-3">Invia</button>
+	</form>
+</div>
+
+
+
+
+</body>
+</html>
+
+
+
+

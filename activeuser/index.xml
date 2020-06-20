@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ActiveUsers on Scambici</title>
+    <link>https://natras2.github.io/ScambiciGUI/activeuser/</link>
+    <description>Recent content in ActiveUsers on Scambici</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    
+	<atom:link href="https://natras2.github.io/ScambiciGUI/activeuser/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Home active user</title>
+      <link>https://natras2.github.io/ScambiciGUI/ActiveUser/HomeActiveUser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/ActiveUser/HomeActiveUser/</guid>
+      <description>	 Scambici Benvenuto [Nome] [Cognome],
+Speriamo che tu ti trovi bene con la tua Scambici!   </description>
+    </item>
+    
+    <item>
+      <title>Maintenance request</title>
+      <link>https://natras2.github.io/ScambiciGUI/ActiveUser/Confirmation/MaintenanceRequest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/ActiveUser/Confirmation/MaintenanceRequest/</guid>
+      <description> Richiesta manutenzione Grazie della segnalazione.  Un nostro dipendente si recher&amp;agrave; da te il prima possibile.  Torna alla home  </description>
+    </item>
+    
+    <item>
+      <title>Maintenance request</title>
+      <link>https://natras2.github.io/ScambiciGUI/ActiveUser/MaintenanceRequest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/ActiveUser/MaintenanceRequest/</guid>
+      <description>	 Richiesta manutenzione Inserisci il dettaglio del tuo guasto.  Un nostro dipendente si recher&amp;agrave; da te il prima possibile.    Invia   </description>
+    </item>
+    
+    <item>
+      <title>Rental interruption</title>
+      <link>https://natras2.github.io/ScambiciGUI/ActiveUser/Confirmation/RentalInterruption/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/ActiveUser/Confirmation/RentalInterruption/</guid>
+      <description> Interruzione noleggio La tua richiesta di interruzione &amp;egrave; stata registrata.  Ti chiediamo di recarti in negozio per la riconsegna della bicicletta e l&#39;interruzione dell&#39;abbonamento.  Torna alla home  </description>
+    </item>
+    
+    <item>
+      <title>Rental interruption</title>
+      <link>https://natras2.github.io/ScambiciGUI/ActiveUser/RentalInterruption/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/ActiveUser/RentalInterruption/</guid>
+      <description>  Interruzione noleggio Sei sicuro di voler interrompere il tuo noleggio?  Conferma   </description>
+    </item>
+    
+    <item>
+      <title>Segnalazione furto</title>
+      <link>https://natras2.github.io/ScambiciGUI/ActiveUser/Confirmation/TheftReport_WithKey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/ActiveUser/Confirmation/TheftReport_WithKey/</guid>
+      <description> Segnalazione furto La tua segnalazione &amp;egrave; stata presa in carico.  Ti chiediamo di recarti in negozio per la riconsegna delle chiavi.  Richiedi una nuova bicicletta  </description>
+    </item>
+    
+    <item>
+      <title>Theft report</title>
+      <link>https://natras2.github.io/ScambiciGUI/ActiveUser/Confirmation/TheftReport_WithoutKey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/ActiveUser/Confirmation/TheftReport_WithoutKey/</guid>
+      <description> Segnalazione furto La tua segnalazione &amp;egrave; stata registrata.  La penale &amp;egrave; stata addebitata sul metodo di pagamento scelto in fase di registrazione.  Torna alla home  </description>
+    </item>
+    
+    <item>
+      <title>Theft report</title>
+      <link>https://natras2.github.io/ScambiciGUI/ActiveUser/TheftReport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/ActiveUser/TheftReport/</guid>
+      <description>  Segnalazione furto Possiedi la chiave della bicicletta?  Sì  No  Conferma   </description>
+    </item>
+    
+  </channel>
+</rss>

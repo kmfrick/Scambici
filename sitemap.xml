@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/Authentication/HomeAccess/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/activeuser/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/authentication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/InactiveUser/DeleteUser/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/Employee/Deliveries/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/EmployeeHandling/DeleteEmployee/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/EmployeeHandling/EmployeeRegistration/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/EmployeeHandling/EmployeeRegistration_Employee/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/employeehandling/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/employee/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/ActiveUser/HomeActiveUser/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/Employee/HomeEmployeeTask/HomeEmployee_StoreMaintenance/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/Employee/HomeEmployee/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/Employee/HomeEmployeeTask/HomeEmployee_Delivery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/Employee/HomeEmployeeTask/HomeEmployee_UserMaintenance/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/EmployeeHandling/HomeEmployeeHandling/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/InactiveUser/HomeInactiveUser/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/inactiveuser/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/Authentication/AdminLogin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/Authentication/EmployeeLogin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/Authentication/UserLogin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/Authentication/AdminLogout/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/Authentication/EmployeeLogout/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/Authentication/UserLogout/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/ActiveUser/Confirmation/MaintenanceRequest/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/ActiveUser/MaintenanceRequest/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/InactiveUser/NewBike/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/ActiveUser/Confirmation/RentalInterruption/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/ActiveUser/RentalInterruption/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/Employee/RentalInterruptions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/ActiveUser/Confirmation/TheftReport_WithKey/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/Employee/StoreMaintenances/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/ActiveUser/Confirmation/TheftReport_WithoutKey/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/ActiveUser/TheftReport/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/Employee/Thefts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/Employee/UserMaintenances/</loc>
+  </url>
+  
+  <url>
+    <loc>https://natras2.github.io/ScambiciGUI/Authentication/UserRegistration/</loc>
+  </url>
+  
+</urlset>

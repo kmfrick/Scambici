@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authentications on Scambici</title>
+    <link>https://natras2.github.io/ScambiciGUI/authentication/</link>
+    <description>Recent content in Authentications on Scambici</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    
+	<atom:link href="https://natras2.github.io/ScambiciGUI/authentication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accedi o Registrati</title>
+      <link>https://natras2.github.io/ScambiciGUI/Authentication/HomeAccess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Authentication/HomeAccess/</guid>
+      <description> Scambici Accedi  Registrati   Sei un dipendente? Accedi  </description>
+    </item>
+    
+    <item>
+      <title>Login</title>
+      <link>https://natras2.github.io/ScambiciGUI/Authentication/AdminLogin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Authentication/AdminLogin/</guid>
+      <description> Scambici    Invia   </description>
+    </item>
+    
+    <item>
+      <title>Login</title>
+      <link>https://natras2.github.io/ScambiciGUI/Authentication/EmployeeLogin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Authentication/EmployeeLogin/</guid>
+      <description>	 Scambici    Invia   </description>
+    </item>
+    
+    <item>
+      <title>Login</title>
+      <link>https://natras2.github.io/ScambiciGUI/Authentication/UserLogin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Authentication/UserLogin/</guid>
+      <description>	 Scambici    Invia   </description>
+    </item>
+    
+    <item>
+      <title>Logout</title>
+      <link>https://natras2.github.io/ScambiciGUI/Authentication/AdminLogout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Authentication/AdminLogout/</guid>
+      <description> Logout in corso... </description>
+    </item>
+    
+    <item>
+      <title>Logout</title>
+      <link>https://natras2.github.io/ScambiciGUI/Authentication/EmployeeLogout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Authentication/EmployeeLogout/</guid>
+      <description>	  Logout in corso... </description>
+    </item>
+    
+    <item>
+      <title>Logout</title>
+      <link>https://natras2.github.io/ScambiciGUI/Authentication/UserLogout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Authentication/UserLogout/</guid>
+      <description>	 Logout in corso... </description>
+    </item>
+    
+    <item>
+      <title>User Registration</title>
+      <link>https://natras2.github.io/ScambiciGUI/Authentication/UserRegistration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natras2.github.io/ScambiciGUI/Authentication/UserRegistration/</guid>
+      <description>	  Scambici    Seleziona il negozio     Invia   </description>
+    </item>
+    
+  </channel>
+</rss>
