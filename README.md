@@ -11,3 +11,4 @@ The API is deployed as a set of serverless Azure Functions, while the front-end 
 The front-end is available at https://kmfrick.vision/Scambici and https://natras2.github.io/ScambiciGUI .
 
 We are releasing the source code under the GPLv3 license.
+
